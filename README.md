@@ -1,0 +1,1 @@
+This project aims to build a predictive model to classify customer churn based on various features such as customer demographics and usage patterns. The goal is to identify customers who are likely to churn and take preventive measures to retain them.
